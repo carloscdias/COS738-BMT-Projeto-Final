@@ -7,6 +7,8 @@ O código desenvolvido neste projeto pode ser visualizado no arquivo [BMT_projet
 ](https://github.com/carloscdias/COS738-BMT-Projeto-Final/blob/main/BMT_projeto_final.ipynb)
 na raiz deste repositório.
 
+O relatório desenvolvido para a disciplina está disponível [aqui](https://github.com/carloscdias/COS738-BMT-Projeto-Final/blob/main/docs/bmt_carlos_tales.pdf).
+
 ## Objetivo
 
 A Análise Semântica Latente (LSA) é uma técnica de processamento de linguagem natural (NLP)
